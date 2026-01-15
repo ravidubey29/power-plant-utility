@@ -10,7 +10,7 @@
   ▸ Version     : 1.0
   ▸ Platform    : Windows 10 / Windows 11
   ▸ Installer   : PowerPlantUtilityLauncher_Setup.exe
-  ▸ Developer   : (Your Name)
+  ▸ Developer   : RAVI DUBEY
 
 ╭──────────────────────────────────────────────────────╮
 │ 🚀 WHAT IS THIS SOFTWARE?                             │
