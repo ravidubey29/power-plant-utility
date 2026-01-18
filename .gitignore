@@ -1,1 +1,23 @@
+# Ignore Windows executable files
 *.exe
+
+# Ignore installer output folder
+Output/
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.log
+
+# Ignore system files
+Thumbs.db
+desktop.ini
+
+# Ignore IDE / editor files
+.vscode/
+.idea/
+
+# Ignore Python or Jupyter cache (optional)
+__pycache__/
+*.ipynb_checkpoints
+
