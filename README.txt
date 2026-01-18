@@ -4,16 +4,16 @@
              Smart • Secure • Centralized
  
 ╭──────────────────────────────────────────────────────╮
-│ 📌 APPLICATION DETAILS                                │
+│ 📌 APPLICATION DETAILS                                                                              │
 ╰──────────────────────────────────────────────────────╯
   ▸ Name        : Power Plant Utility Launcher
-  ▸ Version     : 1.0
+  ▸ Version     : 3.0
   ▸ Platform    : Windows 10 / Windows 11
   ▸ Installer   : PowerPlantUtilityLauncher_Setup.exe
   ▸ Developer   : RAVI DUBEY
 
 ╭──────────────────────────────────────────────────────╮
-│ 🚀 WHAT IS THIS SOFTWARE?                             │
+│ 🚀 WHAT IS THIS SOFTWARE?                                                                       │
 ╰──────────────────────────────────────────────────────╯
 Power Plant Utility Launcher is a professional
 Windows desktop application developed to provide
@@ -26,7 +26,7 @@ one powerful launcher.
 
 
 ╭──────────────────────────────────────────────────────╮
-│ ✨ KEY ADVANTAGES                                     │
+│ ✨ KEY ADVANTAGES                                                                                      │
 ╰──────────────────────────────────────────────────────╯
   ✔ Elegant and modern interface
   ✔ Centralized utility access
@@ -102,16 +102,17 @@ or unauthorized distribution.
 
 
 ╭──────────────────────────────────────────────────────╮
-│ 📞 SUPPORT & FEEDBACK                                 │
+│ 📞 SUPPORT & FEEDBACK                                                                              │
 ╰──────────────────────────────────────────────────────╯
 For support, suggestions, or feedback,
 please contact the developer.
-DOVLOPER - RAVI DUBEY
+DEVELOPER - RAVI DUBEY
 
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║        🙏 THANK YOU FOR USING                         ║
-║                                                      ║
-║      ⚡ POWER PLANT UTILITY LAUNCHER ⚡               ║
-║                                                      ║
+  =======  =======  =======  =======  =======  =======  =======
+║                                                                                                                          ║
+║             THANK YOU FOR USING                                                                      ║
+║                                                                                                                          ║
+║      ⚡ POWER PLANT UTILITY LAUNCHER ⚡                                                ║
+║                                                                                                                          ║
 ╚══════════════════════════════════════════════════════╝
+
