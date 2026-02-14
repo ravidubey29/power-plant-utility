@@ -21,3 +21,10 @@ desktop.ini
 __pycache__/
 *.ipynb_checkpoints
 
+~/OneDrive/Desktop/lancher
+git rm -r --cached .
+
+^O Write Out
+^X Exit
+
+
