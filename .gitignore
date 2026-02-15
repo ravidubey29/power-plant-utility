@@ -1,30 +1,44 @@
-# Ignore Windows executable files
-*.exe
-
-# Ignore installer output folder
-Output/
-
-# Ignore temporary files
+# ==============================
+# Ignore Temporary Files
+# ==============================
 *.tmp
 *.bak
 *.log
 
-# Ignore system files
+# ==============================
+# Ignore System Files
+# ==============================
 Thumbs.db
 desktop.ini
 
-# Ignore IDE / editor files
+# ==============================
+# Ignore IDE / Editor Files
+# ==============================
 .vscode/
 .idea/
+.vs/
 
-# Ignore Python or Jupyter cache (optional)
+# ==============================
+# Ignore Build Cache Folders
+# ==============================
+bin/
+obj/
+
+# ==============================
+# Ignore Python Cache (if used)
+# ==============================
 __pycache__/
 *.ipynb_checkpoints
 
-~/OneDrive/Desktop/lancher
-git rm -r --cached .
+# ==============================
+# Output Folder Rules
+# Ignore everything inside Output
+# But allow .iss installer scripts
+# ==============================
+Output/*
+!Output/*.iss
 
-^O Write Out
-^X Exit
-
-
+# ==============================
+# Allow Executable Files
+# ==============================
+!*.exe
